@@ -78,7 +78,7 @@ Here the video ID is the word after `https://youtu.be/`, i.e., `3rg_7hIb9PQ`
 
 ## Setup the secrets
 
-- **In [my repository](https://github.com/AnimeshKumar923/asyncapi-community/tree/youtube-to-anchor-workflow) on `youtube-to-anchor-workflow` branch, the secrets are already setup so you can skip the [secrets section](#setup-the-secrets) and jump directly to [here](#after-setting-up-secrets-follow-this)**
+- **In [my repository](https://github.com/AnimeshKumar923/asyncapi-community/tree/youtube-to-anchor-workflow) on `youtube-to-anchor-workflow` branch, the secrets are already setup so you can skip the [secrets section](#setup-the-secrets) and jump directly to [here](#after-setting-up-secrets-follow-this-section)**
 
 - **This step requires you to have a [Spotify Podcast](https://podcasters.spotify.com) Account. If you don't have, you can create one [here](https://podcasters.spotify.com/getstarted/new)**
   - You can select `I want to create a podcast and follow the instructions ahead.
