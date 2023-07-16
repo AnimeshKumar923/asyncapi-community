@@ -69,6 +69,8 @@ Here the video ID is the word after `https://youtu.be/`, i.e., `3rg_7hIb9PQ`
   - Here, it can be https://www.youtube.com/shorts/3rg_7hIb9PQ
 - `https://www.youtube.com/watch?v=VIDEO_ID&list=PLAYLIST_ID`
   - Here, it can be https://www.youtube.com/watch?v=deLUAobdVpw&list=PLbi1gRlP7piiaD67o1F4EOPoZztg2r8l6
+- `https://youtube.com/shorts/VIDEO_ID?feature=share`
+  - Here, it can be https://youtube.com/shorts/U5jUr8XAF_M?feature=share
 
 *If you find more formats, please add to this list by raising and issue and with a follow-up Pull Request (PR)*
 
