@@ -1,1 +1,0 @@
-- The yt-to-anchor workflow does not executes without the necessary files which I deleted in the previous commit for testing this very same thing.
