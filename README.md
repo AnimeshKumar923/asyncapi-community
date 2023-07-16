@@ -1,4 +1,4 @@
-# This documentation section will remain only in this forked repository and will not be added to main https://github.com/asyncapi/community repository without discussing it with the maintainers.
+# NOTE: This documentation section will remain only in this forked repository and will not be added to [main](https://github.com/asyncapi/community) repository without discussing it with the maintainers.
 
 
 
@@ -26,6 +26,7 @@ Table of contents
 # Introduction
 
 - First of all, I've FINALLY resolved this issue https://github.com/asyncapi/community/issues/621 after various obstacles.
+- [This is the first file](https://podcasters.spotify.com/pod/show/animeshkumar923/episodes/demo-audio-3-e2704o9) which was using the youtube-to-anchorFM action.
 - This was not an easy task for me, like seriously! This was an untouched and unfamiliar topic for me (CI/CD). Was a little scared as how to approach it but the [official documentation](https://github.com/marketplace/actions/upload-episode-from-youtube-to-anchor-fm#how-it-works) helped a lot (~80% was clear from there, thanks to the folks who wrote it).
 
 # How I approached it?
@@ -75,9 +76,9 @@ Here the video ID is the word after `https://youtu.be/`, i.e., `3rg_7hIb9PQ`
 
 ## Setup the secrets
 
-**In [my repository](https://github.com/AnimeshKumar923/asyncapi-community/tree/youtube-to-anchor-workflow) on `youtube-to-anchor-workflow` branch, the secrets are already setup so you can skip the [secrets section](#setup-the-secrets) and jump directly to [here](#after-setting-up-secrets-follow-this)**
+- **In [my repository](https://github.com/AnimeshKumar923/asyncapi-community/tree/youtube-to-anchor-workflow) on `youtube-to-anchor-workflow` branch, the secrets are already setup so you can skip the [secrets section](#setup-the-secrets) and jump directly to [here](#after-setting-up-secrets-follow-this)**
 
-**This step requires you to have a [Spotify Podcast](https://podcasters.spotify.com) Account. If you don't have, you can create one [here](https://podcasters.spotify.com/getstarted/new)**
+- **This step requires you to have a [Spotify Podcast](https://podcasters.spotify.com) Account. If you don't have, you can create one [here](https://podcasters.spotify.com/getstarted/new)**
   - You can select `I want to create a podcast and follow the instructions ahead.
 
 - If you've forked the repository, go to that.
@@ -102,7 +103,7 @@ Here the video ID is the word after `https://youtu.be/`, i.e., `3rg_7hIb9PQ`
 If you want to test this, you can follow these steps:
 
 - Go to [this repository](https://github.com/AnimeshKumar923/asyncapi-community/tree/youtube-to-anchor-workflow).
-- Fork this repository using the button somewhere on top of of the page.
+- Fork that repository using the button somewhere on top of the page.
 - Create a local branch in your own repository.
 - Change the branch to your local branch if it is not already on it.
 - Change the [episode.json file](https://github.com/AnimeshKumar923/asyncapi-community/blob/youtube-to-anchor-workflow/episode.json) with your desired video ID. [How to find Youtube ID?](#how-to-find-youtube-id)
@@ -178,7 +179,7 @@ jobs:
 
 - This note is 100% organic &copy &reg &trade @AnimeshKumar923 
 (i.e., I've written all these documentations line-by-line with careful and thorough consideration, and thinking. It's my first time writing such long documentation so there may be things which I'm lacking hence, your feedback is very much required and appreciated.)
-- Now make me a CI/CD engineer already. :p   
+- Now make me a CI/CD engineer already. :stuck_out_tongue_winking_eye:   
 
 
 ---
