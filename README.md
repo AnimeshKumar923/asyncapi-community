@@ -1,4 +1,4 @@
-# NOTE: This documentation section will remain only in this forked repository and will not be added to [main](https://github.com/asyncapi/community) repository without discussing it with the maintainers.
+# NOTE: This documentation section will remain only in this forked repository and will not be added to [main repository](https://github.com/asyncapi/community) without discussing it with the maintainers.
 
 
 
