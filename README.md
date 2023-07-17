@@ -107,7 +107,7 @@ If you want to test this, you can follow these steps:
 - Go to [this repository](https://github.com/AnimeshKumar923/asyncapi-community/tree/youtube-to-anchor-workflow).
 - Fork that repository using the button somewhere on top of the page.
 - Create a local branch in your own repository.
-- Change the branch to your local branch if it is not already on it.
+- Change your current branch to your local branch if it is not already on it.
 - Change the [episode.json file](https://github.com/AnimeshKumar923/asyncapi-community/blob/youtube-to-anchor-workflow/episode.json) with your desired video ID. [How to find Youtube ID?](#how-to-find-youtube-id)
 - Commit your changes to the `your-local-branch` branch.
 - You can simply do it from the GitHub UI itself. 
