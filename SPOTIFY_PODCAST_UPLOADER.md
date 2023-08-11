@@ -1,4 +1,4 @@
-#### This document covers the steps to upload a YouTube video/livestream from AsyncAPI YouTube Channel.
+![Drawing-4 sketchpad](https://github.com/AnimeshKumar923/asyncapi-community/assets/99868037/631cbc84-7d96-4357-a625-3a45823fb723)#### This document covers the steps to upload a YouTube video/livestream from AsyncAPI YouTube Channel.
 
 # FAQ
 
@@ -49,3 +49,24 @@ Here the video ID is the word/entity after `https://www.youtube.com/watch?v=`, i
   - Here, it can be https://youtube.com/shorts/U5jUr8XAF_M?feature=share
 
 *If you find more formats, please add to this list by raising an issue and with a follow-up Pull Request (PR)*
+
+***
+
+# Step-by-step Procedure (Example)
+
+Here is an example with procedure on how to use this workflow:
+
+1. Go to the `Actions` section on GitHub. ![Drawing sketchpad](https://github.com/AnimeshKumar923/asyncapi-community/assets/99868037/12be967e-75bf-40ad-acb6-13664b5aaffc)
+
+2. Scroll down the menu on the left hand-side.
+
+![Screenshot from 2023-08-11 23-08-22](https://github.com/AnimeshKumar923/asyncapi-community/assets/99868037/31bbe495-0329-459b-83f7-c51474fb82a0)
+
+3. Click on the `Upload Episode from YouTube To Spotify for Podcasters` option.
+   ![Drawing-2 sketchpad](https://github.com/AnimeshKumar923/asyncapi-community/assets/99868037/6176c2a9-ed2f-45a8-aa98-797da9d7de88)
+
+4. Click on the `Run Workflow` button. ![Drawing-3 sketchpad](https://github.com/AnimeshKumar923/asyncapi-community/assets/99868037/81dc14ce-61bf-4b97-b1d8-6b29d24773fa)
+5. Provide the YouTube ID in the box. ![Drawing-4 sketchpad](https://github.com/AnimeshKumar923/asyncapi-community/assets/99868037/e0b8f092-df13-44ab-9e4e-7cdfcf551975)
+6. Click on `Run workflow` button. ![Drawing-4 sketchpad(1)](https://github.com/AnimeshKumar923/asyncapi-community/assets/99868037/628e4c20-c2d6-4b76-9894-16c97b4a8501)
+
+ 
