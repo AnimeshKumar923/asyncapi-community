@@ -1,4 +1,4 @@
-![Drawing-4 sketchpad](https://github.com/AnimeshKumar923/asyncapi-community/assets/99868037/631cbc84-7d96-4357-a625-3a45823fb723)#### This document covers the steps to upload a YouTube video/livestream from AsyncAPI YouTube Channel.
+#### This document covers the steps to upload a YouTube video/livestream from AsyncAPI YouTube Channel.
 
 # FAQ
 
