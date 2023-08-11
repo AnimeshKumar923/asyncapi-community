@@ -1,4 +1,4 @@
-#### This document covers the steps to upload a YouTube video/livestream from AsyncAPI YouTube Channel.
+## This document covers the steps to upload a YouTube video/livestream from AsyncAPI YouTube Channel to Spotify Podcast.
 
 # FAQ
 
@@ -52,7 +52,7 @@ Here the video ID is the word/entity after `https://www.youtube.com/watch?v=`, i
 
 ***
 
-# Step-by-step Procedure (Example)
+# Step-by-step procedure
 
 Here is an example with procedure on how to use this workflow:
 
@@ -68,5 +68,10 @@ Here is an example with procedure on how to use this workflow:
 4. Click on the `Run Workflow` button. ![Drawing-3 sketchpad](https://github.com/AnimeshKumar923/asyncapi-community/assets/99868037/81dc14ce-61bf-4b97-b1d8-6b29d24773fa)
 5. Provide the YouTube ID in the box. ![Drawing-4 sketchpad](https://github.com/AnimeshKumar923/asyncapi-community/assets/99868037/e0b8f092-df13-44ab-9e4e-7cdfcf551975)
 6. Click on `Run workflow` button. ![Drawing-4 sketchpad(1)](https://github.com/AnimeshKumar923/asyncapi-community/assets/99868037/628e4c20-c2d6-4b76-9894-16c97b4a8501)
-
- 
+7. Wait for the workflow to finish. (May take some time to upload depending upon video size so please have patience. Thank you.) ![Drawing-5 sketchpad](https://github.com/AnimeshKumar923/asyncapi-community/assets/99868037/9f13bbb6-f45f-4179-81d4-cd234ccdb534)
+8. Go to podcasters.spotify.com (Log in to your account if you haven't already).
+9. Go to `Episodes` section. There you will see your latest upload as `Draft` ![Drawing-6 sketchpad](https://github.com/AnimeshKumar923/asyncapi-community/assets/99868037/211c58ab-6486-4f79-a0ec-ba8296cb5049)
+10. Click on the latest episode.
+11. Update the episode details as per your requirement.
+12. At last, after updating all the informations, click on the `Publish` button.
+13. Hurray! Your episode is now uploaded successfully!
