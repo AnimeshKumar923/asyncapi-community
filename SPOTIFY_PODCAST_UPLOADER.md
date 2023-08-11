@@ -20,11 +20,14 @@
 
 ## What is YouTube video ID?
 
+- A YouTube video ID is a unique combination of characters that identifies a specific video on the YouTube platform. It's used in the URL of the video to direct users to the exact video they want to watch. The video ID is typically a sequence of letters, numbers, and special characters that generally comes after the "v=" parameter in the URL.
+- More examples of video ID are given below: ⬇️
+
 ### How to find YouTube ID?
 
-Let's take this video link for example: https://youtu.be/3rg_7hIb9PQ
+Let's take this video link for example: https://www.youtube.com/watch?v=3rg_7hIb9PQ
 
-Here the video ID is the word/entity after `https://youtu.be/`, i.e., `3rg_7hIb9PQ`
+Here the video ID is the word/entity after `https://www.youtube.com/watch?v=`, i.e., `3rg_7hIb9PQ`
 
 ***
 
